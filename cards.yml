@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to EasyBank cards related local APIs"
+  contactDetails:
+    name: "Pavel Gorodetchi - Developer"
+    email: "pavel.gorodetchi@gmail.com"
+  onCallSupport:
+    - (555) 233-1234
+    - (555) 675-3435

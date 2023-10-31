@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EasyBank loans related prod APIs"
+  contactDetails:
+    name: "Reine Doe - Product Owner"
+    email: "reine@easybank.com"
+  onCallSupport:
+    - (444) 555-4829
+    - (444) 203-0384
