@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EasyBank accounts related prod APIs"
+  message: "Welcome to EasyBank accounts related production APIs"
   contactDetails:
     name: "Reine Doe - Product Owner"
     email: "{cipher}531d6e10a253262822f82e600a4bc67f562905048d07d656694efb34181fb3818e06a6350ed5e021ed9fb0964441145b"
