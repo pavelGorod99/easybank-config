@@ -1,7 +1,7 @@
 build:
   version: "2.0"
 
-accounts:
+cards:
   message: "Welcome to EasyBank cards related QA APIs"
   contactDetails:
     name: "Smith Ray - QA Lead"

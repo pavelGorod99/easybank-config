@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 
-accounts:
+cards:
   message: "Welcome to EasyBank cards related prod APIs"
   contactDetails:
     name: "Reine Doe - Product Owner"

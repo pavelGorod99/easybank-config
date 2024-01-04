@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EasyBank accounts related prod APIs"
   contactDetails:
     name: "Reine Doe - Product Owner"
-    email: "{cipher}531d6e10a253262822f82e600a4bc67f562905048d07d656694efb34181fb3818e06a6350ed5e021ed9fb0964441145b"
+    email: "reine@easybank.com"
   onCallSupport:
     - (444) 555-4829
     - (444) 203-0384
