@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to EasyBank cards related local APIs 123"
+  message: "Welcome to EasyBank cards related local PROD APIs 123"
   contactDetails:
     name: "Pavel Gorodetchi - Developer"
     email: "pavel.gorodetchi@gmail.com"
