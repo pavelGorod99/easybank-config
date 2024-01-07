@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to EasyBank cards related prod APIs"
+  message: "Welcome to EasyBank cards related prod PIROG APIs"
   contactDetails:
     name: "Reine Doe - Product Owner"
     email: "reine@easybank.com"
